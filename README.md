@@ -1,7 +1,7 @@
 # Домашнее задание к занятию 5. «Практическое применение Docker»
 
 # Задача 0. Проверка что НЕ(!) установлен docker-compose
-
+![alt text](<images/Задача 0.png>)
 
 # Задача 1. Fork
 https://github.com/xo4ychill/shvirtd-example-python
