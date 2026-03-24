@@ -1,10 +1,13 @@
 # Домашнее задание к занятию 5. «Практическое применение Docker»
 
-# Задача 0
-![alt text](<../../Docker/DZ5/Задача 0.png>)
-
 # Задача 1
-1. Cоздания форка и клонирование его локально.
-![alt text](<../../Docker/DZ5/Задача 1.png>)
-2. Создание файл Dockerfile.python на основе существующего Dockerfile.
-![alt text](<../../Docker/DZ5/Задача 1.2.png>)
+https://github.com/xo4ychill/shvirtd-example-python
+
+# Задача 3
+![alt text](<images/Задача 3.png>)
+
+# Задача 4
+![alt text](<images/Задача 4.png>)
+
+# Задача 6
+![alt text](<images/Задача 6.png>)
