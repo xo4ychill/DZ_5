@@ -20,8 +20,9 @@ https://github.com/xo4ychill/shvirtd-example-python
 
 # Задача 5. Deploy на облачную ВМ bash скрипт
 
-ssh yc-user@x.x.x.x 'bash' < ./deploy.sh
- - [Deploy.sh](deploy.sh)
+ ssh yc-user@158.160.126.191 'bash' < ./deploy.sh
+
+ - [deploy.sh](deploy.sh)
 
 ![alt text](<images/Задача 5.png>)
 
