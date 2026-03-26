@@ -27,6 +27,9 @@ https://github.com/xo4ychill/shvirtd-example-python
 ![alt text](<images/Задача 5.png>)
 
 # Задача 6.
+![alt text](<images/Задача 6 dive.png>)
+![alt text](<images/Задача 6 terraform.tar.png>)
+![alt text](<images/Задача 6 terraform version.png>)
 
 # Задача 6.1 Использование docker cp
 ![alt text](<images/Задача 6.png>)
