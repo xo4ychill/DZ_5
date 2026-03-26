@@ -17,8 +17,13 @@ https://github.com/xo4ychill/shvirtd-example-python
 
 # Задача 5. Deploy на облачную ВМ bash скрипт
 
+ssh yc-user@x.x.x.x 'bash' < ./deploy.sh
+ - [Deploy.sh](deploy.sh)
 
+![alt text](<images/Задача 5.png>)
 
+# Задача 6.
 
-# Задача 6
+# Задача 6.1 Использование docker cp
 ![alt text](<images/Задача 6.png>)
+
