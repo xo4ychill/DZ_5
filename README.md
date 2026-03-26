@@ -14,6 +14,7 @@ https://github.com/xo4ychill/shvirtd-example-python
 
 # Задача 4. Развёртывание на ВМ в Yandex Cloud
 ![alt text](<images/Задача 4.png>)
+![alt text](<images/Задача 4 (context).png>)
 
 # Задача 5. Deploy на облачную ВМ bash скрипт
 
